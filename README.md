@@ -46,19 +46,3 @@ This repository demonstrates the implementation of three popular **Path Planning
 
 ---
 
-## Features
-- **Interactive Visualizations**: Watch the algorithms as they navigate the map.
-- **Obstacle Avoidance**: All algorithms handle obstacles effectively.
-- **Color-Coded Outputs**:
-  - Start and goal points are marked in **red**.
-  - Explored regions or graphs are shown in **green**.
-  - The final path is highlighted in **blue**.
-
----
-
-## How to Use
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-repo/path-planning-algorithms.git
-   cd path-planning-algorithms
